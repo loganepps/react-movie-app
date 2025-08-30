@@ -142,12 +142,12 @@
   }
 }
 
-@utility text-gradient {
+@utility text-gradient-1 {
   @apply bg-linear-to-r from-[#D6C7FF] to-[#AB8BFF] bg-clip-text text-transparent;
 }
 
 @utility text-gradient-2 {
-  @apply bg-linear-to-r from-[#f3e295] to-[#fcda30] bg-clip-text text-transparent;
+  @apply bg-linear-to-r from-[#f3d199] to-[#f6d101] bg-clip-text text-transparent;
 }
 
 @utility fancy-text {
